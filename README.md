@@ -1,8 +1,6 @@
+nuevamente un cambio,
 soy otro cambio,
 
-hola, soy un cambio, ptrataeter d,fgdfgd
-
-un cambio en stats repositorio original
 # Stats
 
 Stats is a script which given a CSV file compound for 2 columns with samples data, where first one means 'x' and second one is means 'y' is capable to calculate:
