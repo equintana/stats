@@ -1,6 +1,4 @@
-nuevamente un cambio,
-soy otro cambio,
-
+_un_branch_test-
 # Stats
 
 Stats is a script which given a CSV file compound for 2 columns with samples data, where first one means 'x' and second one is means 'y' is capable to calculate:
